@@ -43,7 +43,7 @@
     <apache.httpcomponents.httpclient.version>4.5.13</apache.httpcomponents.httpclient.version>
     <apache.httpcomponents.httpcore.version>4.4.16</apache.httpcomponents.httpcore.version>
     <auto-value.version>1.11.0</auto-value.version>
-    <jackson.version>2.17.2</jackson.version>
+    <jackson.version>2.20.0</jackson.version>
     <junit.version>5.11.4</junit.version>
     <mockito.version>3.12.4</mockito.version>
     <java-websocket.version>1.6.0</java-websocket.version>
